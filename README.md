@@ -11,4 +11,12 @@ Solving Data Structure &amp; Algorithm on Leetcode.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/anjulchaudhary/LeetCode/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anjulchaudhary/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anjulchaudhary/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
